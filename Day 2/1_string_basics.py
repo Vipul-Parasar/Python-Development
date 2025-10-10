@@ -85,5 +85,3 @@ except Exception as error:
 
 modified = "h" + original[1:] # Correct way to modify a string
 print(modified) # prints "hello"
-
-
